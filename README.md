@@ -15,7 +15,7 @@ Thank you for checking out this repository! Inside are two noteable programs: th
   4. **Choose Payment Option:** Full, Monthly, Down Pay (enter amount if chosen).
   5. **File a Claim:** Input claim number, date, and amount.
   6. **Close Program:** Input 'End' at beginning of program.
-  7. **Save Data:** Enter 'Y' to save data, or 'N' to delete date.
+  7. **Save Data:** Enter 'Y' to save data, or 'N' to delete data.
  
 ## JavaScript QAP
 **Purpose:** Manages motel customer information and displays it in the console and HTML.
